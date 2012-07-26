@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin_left"
+			],
+			[
+				"compan",
+				"company_insert"
+			],
+			[
+				"is",
+				"isNaN"
+			],
+			[
+				"compa",
+				"company_insert"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"request",
+				"request_info"
+			],
+			[
+				"Re",
+				"ResponseBody"
+			],
+			[
+				"he",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/templates/articles/articles.html",
+			"settings":
+			{
+				"buffer_size": 342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/views/articles.js",
+			"settings":
+			{
+				"buffer_size": 815,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/models/articles.js",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/collections/articles.js",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/views/main.js",
+			"settings":
+			{
+				"buffer_size": 563,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/router.js",
+			"settings":
+			{
+				"buffer_size": 500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 1999,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app.js",
+			"settings":
+			{
+				"buffer_size": 425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/assets/curtain/curtain.js",
+			"settings":
+			{
+				"buffer_size": 19603,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 3702,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"Pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Repository"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mapache/Desktop/blog/lib/router/admin.js",
+		"/Users/mapache/Desktop/blog/public/css/style.css",
+		"/Users/mapache/Desktop/blog/public/index.html",
+		"/Users/mapache/Desktop/blog/public/js/app.js",
+		"/Users/mapache/Desktop/blog/public/js/routes.js",
+		"/Users/mapache/Desktop/blog/public/js/collections/articles.js",
+		"/Users/mapache/Desktop/blog/public/js/models/article.js",
+		"/Users/mapache/Desktop/blog/public/js/views/type_article.js",
+		"/Users/mapache/Desktop/blog/public/js/views/main.js",
+		"/Users/mapache/Desktop/blog/public/js/views/articles.js",
+		"/Users/mapache/Desktop/blog/public/admin.html",
+		"/Users/mapache/Desktop/blog/public/login.html",
+		"/Users/mapache/Desktop/blog/lib/router.js",
+		"/Users/mapache/Desktop/blog/lib/router/login.js",
+		"/Users/mapache/Desktop/blog/app.js",
+		"/Users/mapache/Desktop/blog/lib/rest/articles.js",
+		"/Users/mapache/Desktop/blog/auth.js",
+		"/Users/mapache/Desktop/blog/public/assets/bootstrap/css/bootstrap.css",
+		"/Users/mapache/Desktop/blog/public/css/admin.css",
+		"/Users/mapache/Desktop/blog/api/mongo.js",
+		"/Users/mapache/Desktop/blog/api/route.js",
+		"/Users/mapache/Desktop/blog/api/route/home.js",
+		"/Users/mapache/Desktop/blog/api/route/admin.js",
+		"/Users/mapache/Desktop/blog/api/entities/user.js",
+		"/Users/mapache/Desktop/blog/api/rest/articles.js",
+		"/Users/mapache/Desktop/blog/lib/rest/login.js",
+		"/Users/mapache/Desktop/blog/lib/populate.js",
+		"/Users/mapache/Desktop/blog/api/entities/article.js",
+		"/Users/mapache/Desktop/blog/api/entities/static.js",
+		"/Users/mapache/Desktop/blog/api/entities/comments.js",
+		"/Users/mapache/Desktop/blog/lib/mongo.js",
+		"/Users/mapache/Desktop/blog/lib/entities/article.js",
+		"/Users/mapache/Desktop/blog/populate.js",
+		"/Users/mapache/Desktop/blog/lib/rest/admin.js",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apis/test/company/serviceareaSpec.js",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apis/test/geoentities/geoentitiesSpec.js",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apis/lib/client/helper/subscriber_client_helper.js",
+		"/Users/mapache/Documents/Develop/workspace_web/node_addfleet/lib/helper/request_helper.js",
+		"/Users/mapache/Downloads/okfn-recline-c285cdf/demos/data/sample.csv",
+		"/Users/mapache/Downloads/okfn-recline-c285cdf/demos/index.html",
+		"/Users/mapache/Downloads/okfn-recline-c285cdf/demos/multiview/index.html",
+		"/Users/mapache/Downloads/okfn-recline-c285cdf/_includes/example-backends-csv-disk.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/lib/rest_api/feedback.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/img/arduino_img.png",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apis/lib/controllers/login.js",
+		"/Users/mapache/Documents/Develop/workspace_nodejs/master_panel/lib/helper/request_helper",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/index.html",
+		"/Users/mapache/Documents/Develop/workspace_github/iodocs/app.js",
+		"/Users/mapache/Documents/Develop/workspace_nodejs/master_panel/static/img/icons.png",
+		"/Users/mapache/Downloads/source/jquery-ui-personalized-1.6rc2.min.js",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apipartner/lib/helper/request_helper.js",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apipartner/lib/helper/company_helper.js",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apipartner/lib/helper/client_helper.js",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apipartner/app.js",
+		"/Users/mapache/Documents/Develop/workspace_web/addFleet/www/apipartner/lib/helper/users_helper.js",
+		"/Users/mapache/Desktop/example client/js/maps.js",
+		"/Users/mapache/Documents/Develop/workspace_nodejs/node_addfleet/configuration.js",
+		"/Users/mapache/Documents/Develop/workspace_nodejs/node_addfleet/lib/helper/client_helper.js",
+		"/Users/mapache/Documents/Develop/workspace_nodejs/node_addfleet/app.js",
+		"/Users/mapache/Documents/Develop/workspace_personal/public/static/css/style.css",
+		"/Users/mapache/Documents/Develop/workspace_nodejs/node_addfleet/lib/controllers/request.js",
+		"/Users/mapache/Downloads/facebook-test/package.json",
+		"/Users/mapache/Documents/utils.txt",
+		"/Users/mapache/Documents/Develop/keys/keyWeb/web_key.ssh",
+		"/Users/mapache/Documents/Develop/android-sdk-macosx/SDK Readme.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#",
+			"¡+",
+			"#",
+			"position",
+			"Controller",
+			"_GeoEntities",
+			"_client",
+			"ClientClient",
+			"Client",
+			"resolution",
+			"username",
+			"img/arduino_img.png",
+			"search",
+			"header",
+			"params",
+			"parameter",
+			"parameters",
+			"db",
+			"bd",
+			"fs",
+			"processRequest",
+			"headers",
+			"POST",
+			"module",
+			"Company Created",
+			"new_company",
+			"console.log",
+			"inettuts.js",
+			"inettuts.js.css",
+			"console",
+			"infoWindow",
+			"https",
+			"console",
+			"app"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/templates/articles/articles.html",
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/js/views/articles.js",
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/models/articles.js",
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/js/collections/articles.js",
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/js/views/main.js",
+					"settings":
+					{
+						"buffer_size": 563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/js/router.js",
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/index.html",
+					"settings":
+					{
+						"buffer_size": 1999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								974,
+								974
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/js/app.js",
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/assets/curtain/curtain.js",
+					"settings":
+					{
+						"buffer_size": 19603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8375,
+								8375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "public/css/style.css",
+					"settings":
+					{
+						"buffer_size": 3702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1552,
+								1552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 185.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/mapache/Documents/Develop/workspace_personal/domothings.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}

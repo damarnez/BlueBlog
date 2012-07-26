@@ -1,0 +1,153 @@
+
+/* Curtain.js - Example page */
+
+/* RESET */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+
+@font-face {
+    font-family: 'Pictos'; 
+    src: url('pictos-web.eot'); 
+    src: local('☺'), 
+    url('pictos-web.woff') format('woff'), 
+    url('pictos-web.ttf') format('truetype'), 
+    url('pictos-web.svg#webfontIyfZbseF') format('svg'); 
+    font-weight: normal; font-style: normal; 
+}
+Read more at http://designshack.net/articles/css/how-to-implement-some-slick-icons-using-a-font-and-css/#OqqyGt07cwuooexD.99
+/* Clearfix */
+.cf:before,
+.cf:after {
+    content:"";
+    display:table;
+}
+.cf:after {clear:both;}
+.cf { zoom:1;}
+
+/* Base Style */
+body {
+    font:16px/1.2 "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+h1{font-size:38px;}
+p{margin:1em 0 0 0;}
+
+article{
+    margin:0 auto;
+    max-width:600px;
+    padding:2em;
+    margin-top : 10px;
+    margin-bottom : 10px;
+    background-color: white;
+    -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
+    article h1{text-align:center;}
+
+
+/* Sliding panels */
+.curtains>li {
+    box-shadow:0 0 12px #666;
+    background-color: rgb(255,255,255);
+}
+.cover-background{
+    position:fixed;
+    top:0;left:0;
+}
+
+/* Specific */
+#section-2{
+    background:#FFF url('http://placekitten.com/g/1400/1600') 0 0 no-repeat;     
+    color:white;
+    text-shadow:0 1px 0 black;
+}
+
+    #section-2 .fixed {
+        position: fixed;
+        top: 150px;
+        left: 40px;
+        width: 200px;
+        z-index:20;
+    }
+
+
+#section-3{
+    min-height:2300px;
+    color:white;
+    text-shadow:0 1px 0 black;
+}
+    #section-3 article{
+        padding-top:20em;
+    }
+
+
+    #section-3 article{
+        position:relative;
+        z-index:20;
+    }
+
+/* MENU */
+#menu{
+    position:fixed;
+    top:20px;
+    left:20px;
+    z-index:20;
+    padding:10px;
+    background-color:#000;
+}
+    #menu li{margin:0}
+    #menu a{
+        margin:0;
+        color:#FFF;
+    }
+
+/* STEP BY STEP */
+li.step{margin:1em 0 0 0;}
+
+#home{
+     background:#FFF url('http://localhost:3002/img/background-home.jpg')  repeat fixed; 
+}
+#android{
+    background:#FFF url('http://localhost:3002/img/background-android.jpg') 0 0 repeat fixed; 
+}
+#nodejs{
+     background:#FFF url('http://localhost:3002/img/background-nodejs.jpg')  repeat fixed; 
+}
+#me{
+    background:#FFF url('http://localhost:3002/img/background-me.jpg') 0 0 repeat fixed; 
+}
+
+.scroll-cta {
+    bottom: 60px;
+    color: #FF0000;
+    font-family: 'Pictos';
+    font-size: 1.5em;
+    left: 50%;
+    margin-left: -7px;
+    opacity: 0;
+    position: absolute;
+    width: 15px;
+}
+element.style {
+    opacity: 1;
+}
+.scroll-instruct {
+   bottom: 0;
+    color: #BFBFBF;
+    font-size: 0.8em;
+    left: 50%;
+    margin-left: -43px;
+    opacity: 0;
+    padding: 3px 12px;
+    position: absolute;
+    text-transform: lowercase;
+    width: 70px;
+}
+[data-icon]:before {
+    font-family: 'Pictos Custom';
+    content: attr(data-icon);
+}
+
+strong {
+    text-indent: -99999px;
+}

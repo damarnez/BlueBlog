@@ -1,0 +1,12 @@
+<% _.each(articles,function(_article){ %>
+	 	<article>
+            <header>
+            <h1><%= _article.title %></h1>
+            <p>Published: <time pubdate datetime="2009-10-09"><%= _article.creation_date %></time></p>
+            </header>
+            <p><%= _article.article %></p>
+           
+            
+        </article>
+<% }); %>
+ 
